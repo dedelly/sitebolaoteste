@@ -8,4 +8,5 @@ div {
 	height: auto;
 	border: solid;
 	border-color: red;
+	vertical-align: top;
 }
