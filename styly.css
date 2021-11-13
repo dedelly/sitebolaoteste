@@ -8,8 +8,20 @@ div {
 	display: inline-block;
 	width: 400px;
 	height: auto;
-	border: solid;
-	border-color: red;
+	border: solid 1px;
+	border-color: grey;
 	vertical-align: top;
 	margin: 15px;
+}
+
+table {
+	text-align: justify;
+	margin: 5px;
+
+}
+
+td {
+	text-align: center;
+	padding: 5px;
+	padding-right: 10px;
 }
