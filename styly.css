@@ -1,3 +1,9 @@
 body {
 	background: yellowgreen;
 }
+
+div {
+	width: 400px;
+	height: auto;
+	border: 1 solid red;
+}
