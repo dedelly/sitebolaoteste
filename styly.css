@@ -1,3 +1,7 @@
+* {
+	padding: 0;
+	margin: 0;
+}
 body {
 	background: yellowgreen;
 }
@@ -9,4 +13,5 @@ div {
 	border: solid;
 	border-color: red;
 	vertical-align: top;
+	margin: 15px;
 }
