@@ -5,5 +5,5 @@ body {
 div {
 	width: 400px;
 	height: auto;
-	border: 1 solid red;
+	border: solid red;
 }
