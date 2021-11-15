@@ -1,3 +1,30 @@
+header {
+	background: url("tecnologia1.jpg") no-repeat;
+	margin-top: -20px;
+	text-align: left;
+}
+
+header h1 {
+	color: #7fff00;
+	padding: 2px;
+	margin-bottom: 0px;
+	padding-top: 15px;
+
+}
+
+header h2 {
+	color: rgb(164, 240, 240);
+	padding: 2px;
+	margin-top: 3px;
+	padding-left: 50px;
+}
+
+img {
+	width: 378px;
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+
 body {
 	background: yellowgreen;
 	margin: 0px;
