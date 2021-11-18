@@ -53,3 +53,31 @@ td {
 	padding: 5px;
 	padding-right: 10px;
 }
+
+nav#menu {
+	display: block;
+}
+
+nav#menu ul{
+	list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: 70px;
+	left: 10px;
+}
+
+nav#menu li {
+	display: inline-block;
+	background-color: burlywood;
+	padding: 7px;
+	margin: 4px;
+
+}
+
+nav#menu li:hover {
+	background-color: white;
+}
+
+nav#menu h1 {
+	display: none;
+}
