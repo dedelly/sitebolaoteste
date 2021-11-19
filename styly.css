@@ -64,6 +64,7 @@ nav#menu ul{
 	position: absolute;
 	top: 70px;
 	left: 10px;
+	text-decoration: none;
 }
 
 nav#menu li {
@@ -71,7 +72,8 @@ nav#menu li {
 	background-color: burlywood;
 	padding: 7px;
 	margin: 4px;
-
+	transition: background-color 1s;
+	
 }
 
 nav#menu li:hover {
@@ -80,4 +82,23 @@ nav#menu li:hover {
 
 nav#menu h1 {
 	display: none;
+}
+
+nav#menu a {
+	color: black;
+	text-decoration: none;
+}
+
+nav#menu a:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: blue;
+	text-decoration: underline;
 }
