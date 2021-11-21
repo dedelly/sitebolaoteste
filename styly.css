@@ -104,7 +104,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-@media  screen and (max-width: 768px) {
+@media  screen and (max-width: 668px) {
 	header {
 	background: url("tecnologia-med.jpg") no-repeat;
 	margin-top: -20px;
@@ -112,11 +112,12 @@ a:hover {
 	}
 }
 
-@media  screen and (max-width: 500px) {
+@media  screen and (max-width: 400px) {
 	header {
 	background: url("tecnologia-peq.jpg") no-repeat;
 	margin-top: -20px;
 	text-align: left;
+	width: auto;
 	}
 
 	header h1 {
