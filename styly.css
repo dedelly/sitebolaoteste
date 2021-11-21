@@ -112,7 +112,7 @@ a:hover {
 	}
 }
 
-@media  screen and (max-width: 400px) {
+@media  screen and (max-width: 500px) {
 	header {
 	background: url("tecnologia-peq.jpg") no-repeat;
 	margin-top: -20px;
