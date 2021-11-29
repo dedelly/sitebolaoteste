@@ -71,8 +71,8 @@ nav#menu ul{
 nav#menu li {
 	display: inline-block;
 	background-color: rgb(236, 214, 14);
-	padding: 5px;
-	margin: 4px;
+	padding: 7px;
+	margin: 2px;
 	transition: background-color 1s;
 	
 }
