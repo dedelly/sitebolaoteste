@@ -1,8 +1,11 @@
 header {
 	background: url("tecnologia1.jpg") no-repeat;
 	margin-top: -20px;
-	text-align: left;
-	
+	text-align: left;	
+}
+
+nav {
+	margin-bottom: 50px;
 }
 
 header h1 {
@@ -11,6 +14,10 @@ header h1 {
 	margin-bottom: 0px;
 	padding-top: 15px;
 
+}
+
+.contato {
+	margin-top: 50px;
 }
 
 header h2 {
@@ -72,7 +79,7 @@ nav#menu li {
 	display: inline-block;
 	background-color: rgb(236, 214, 14);
 	padding: 7px;
-	margin: 2px;
+	margin-top: 20px;
 	transition: background-color 1s;
 	
 }
